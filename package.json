@@ -1,6 +1,6 @@
 {
   "name": "@voorhoede/deltares-vuetify-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Deltares theme for vuetify",
   "main": "index.js",
   "scripts": {
