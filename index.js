@@ -2,8 +2,8 @@ const { light, dark } = require('@voorhoede/deltares-design-tokens')
 
 module.exports = {
   light: {
-    primary: light.blue,
-    secondary: light.blue40,
+    primary: light.blue100,
+    secondary: light.orange,
     accent: dark.blue60,
     error: light.error,
     info: light.informative,
@@ -11,8 +11,8 @@ module.exports = {
     warning: light.warning,
   },
   dark: {
-    primary: dark.blue,
-    secondary: dark.blue40,
+    primary: dark.blue100,
+    secondary: dark.orange,
     accent: dark.blue60,
     error: dark.error,
     info: dark.informative,
