@@ -1,0 +1,14 @@
+{
+  "name": "@voorhoede/deltares-vuetify-theme",
+  "version": "1.0.0",
+  "description": "Deltares theme for vuetify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@voorhoede/deltares-design-tokens": "^1.1.0"
+  }
+}
